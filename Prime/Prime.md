@@ -30,3 +30,6 @@ x = 20
 
 print(sieve_of_eratosthenes(x)) # -> [2, 3, 5, 7, 11, 13, 17, 19]
 ```
+
+## 素因数分解を用いる問題
+- [AtCoder Beginner Contest 142: D](https://atcoder.jp/contests/abc142/tasks/abc142_d)
